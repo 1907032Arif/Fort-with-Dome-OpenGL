@@ -9,7 +9,7 @@ This project includes implementation on:
 - Bézier curve
 
 <p align="center">
-  <img src="https://example.com/image.pn](https://github.com/1907032Arif/Fort-with-Dome-OpenGL/blob/main/Assets/Picture1.png" alt="My Project Screenshot" width="400"/>
+  <img src="https://github.com/1907032Arif/Fort-with-Dome-OpenGL/blob/main/Assets/Picture1.png" alt="My Project Screenshot" width="400"/>
   <br>
   <em>Figure 1: My Project Screenshot</em>
 </p>
