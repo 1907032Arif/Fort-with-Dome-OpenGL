@@ -7,4 +7,10 @@ This project includes implementation on:
 - Lighting (Point Light, Directional Light, Spot Light)
 - Texture
 - Bézier curve
-![This is the caption](https://github.com/1907032Arif/Fort-with-Dome-OpenGL/blob/main/Assets/Picture1.png)
+
+<p align="center">
+  <img src="[https://example.com/image.pn](https://github.com/1907032Arif/Fort-with-Dome-OpenGL/blob/main/Assets/Picture1.png" alt="My Project Screenshot" width="400"/>
+  <br>
+  <em>Figure 1: My Project Screenshot</em>
+</p>
+
